@@ -13,6 +13,22 @@ This repository includes DOS and native Linux executables, source code, database
 - Native Linux executables and shell scripts.
 - INTLIST: the INTER61 archive set.
 
+## Screenshots
+### Main screen
+
+<img src="SCRNSHTS/MAIN.PNG" alt="RBILVIEW main screen Linux" width="640">
+<img src="SCRNSHTS/MAINDOS.PNG" alt="RBILVIEW main screen DOS" width="640">
+
+### Search results
+
+<img src="SCRNSHTS/SEARCH.PNG" alt="RBILVIEW search screen Linux" width="640">
+<img src="SCRNSHTS/SRCHDOS.PNG" alt="RBILVIEW search screen DOS" width="640">
+
+### Interrupt entry
+
+<img src="SCRNSHTS/ENTRY.PNG" alt="RBILVIEW entry screen" width="640">
+<img src="SCRNSHTS/ENTRYDOS.PNG" alt="RBILVIEW entry screen" width="640">
+
 ## Linux
 
 ### Requirements
@@ -88,3 +104,4 @@ The checksum file does not checksum itself, README.md, or .gitignore.
 Ralf Brown's Interrupt List is the underlying reference material. Consult the original material and accompanying notices for applicable redistribution and reuse terms.
 
 Source code and bundled executables are included as distributed in this repository. Consult any accompanying notices for applicable licensing terms.
+
