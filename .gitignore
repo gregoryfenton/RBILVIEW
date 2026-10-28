@@ -1,0 +1,11 @@
+# Editor and operating-system clutter
+*~
+.*.swp
+.DS_Store
+Thumbs.db
+
+# Temporary build output
+*.o
+*.obj
+*.tmp
+*.bak
